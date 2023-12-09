@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HamzaBenerradi
 - 👀 I’m interested in Html and CSS Languages
-- 🌱 I’m currently learning some Python and JavaScript Languages
+- 🌱 I’m currently learning Python and JavaScript Languages
 - 📫 How to reach me : Hamzabenerradi4@gmail.com
 
 <!---
