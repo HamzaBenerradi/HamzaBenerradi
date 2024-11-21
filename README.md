@@ -5,5 +5,5 @@
 
 Contact  Me  :
 - IG : sakuragi.4
-- Linkedin : linkedin.com/in/hamzabenerradi
+- Linkedin : [HamzaBenerradi](https://www.linkedin.com/in/hamzabenerradi/)
 - Email : hamzabenerradi4@gmail.com
